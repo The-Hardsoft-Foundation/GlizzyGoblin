@@ -1,0 +1,8 @@
+newPattern,mbp_glizzygoblin_furry0,,,,
+,,,,,
+time,0,,,,
+,,,,,
+pattVarReset,,,,,
+pattVars,spawnDelay;1000,eraseDelay;3000,num;5,rot;5,speedMult;1
+,,,,,
+pattAddPos,bp_ray_spinning,bfCenterX-400,bfCenterY,,

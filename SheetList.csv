@@ -1,0 +1,10 @@
+Sheet Type,filename
+AnimationSheet,GlizzyGoblin_Anim
+EnemySheet,GlizzyGoblin_Enemy
+TitleSheet,GlizzyGoblin_Title
+,
+EncounterSheet,GlizzyGoblin_Encounter
+HallwaySheet,GlizzyGoblin_Hallway
+,
+PatternSheet,GlizzyGoblin_Pattern
+PatternSheet,GlizzyGoblin_furry

@@ -1,0 +1,4 @@
+lineType,enemyKey,enemyPosX,enemyPosY,health,pattNormalSingle,pattHardSingle,pattLunarSingle,pattNormal,pattHard,pattLunar
+,,,,,,,,,,
+encounter,enc_glizzygoblin,,,,,,,,,
+enemy,en_glizzygoblin,400,0,12000,mbp_glizzygoblin0,mbp_glizzygoblin0,mbp_glizzygoblin0,mbp_glizzygoblin0,mbp_glizzygoblin0,mbp_glizzygoblin0
