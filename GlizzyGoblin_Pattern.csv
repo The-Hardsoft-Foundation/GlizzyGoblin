@@ -10,5 +10,5 @@ move,bfCenterX+700,bfCenterY,1400
 ,,,
 ## PATTERN TIMELINE,,,
 ,,,
-timeRepeating,5000,6000,
-pattAdd,mbp_glizzygoblin_furry0,,
+timeRepeating,2000,6000,
+pattAdd,mbp_glizzygoblin_furry1,,
